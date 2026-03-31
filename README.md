@@ -263,7 +263,3 @@ EduManage-Portal/
 Distributed under the MIT License.
 
 ---
-
-<div align="center">
-  Made with ❤️ by Infoviaan Technologies
-</div>
